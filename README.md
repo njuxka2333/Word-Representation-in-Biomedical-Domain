@@ -1,5 +1,4 @@
-<img width="133" alt="image" src="https://github.com/user-attachments/assets/114c34ed-73eb-4797-a0a4-ec59b6be3c9f"># Word-Representation-in-Biomedical-Domain
-Imperial College Data Science School NLP  Project
+# Imperial College Data Science School NLP  Project
 ## Parse the data
 
 Key: Dictionary + Remove punctuation + file.json
